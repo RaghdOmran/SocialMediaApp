@@ -1,0 +1,1 @@
+all the information of the Firebase conf are in the code. 
